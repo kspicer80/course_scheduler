@@ -1,0 +1,221 @@
+[
+  {
+    "student_name": "Jennifer V. Allen",
+    "student_active": "Y",
+    "advisor": "Mary K. Lawson",
+    "major_requirements_in_english": {
+      "engl_200": "Y",
+      "foreign_language_1": "Y",
+      "foreign_language_2": "Y",
+      "senior_capstone_portfolio": "N"
+    },
+    "concentration_in_writng": {
+      "engl_123": "Y",
+      "engl_300": "N",
+      "engl_315_or_317": "N",
+      "multidisciplinary_elective_1": "Y",
+      "multidisciplinary_elective_2": "Y",
+      "multidisciplinary_elective_3": "N",
+      "multidisciplinary_elective_4": "N",
+      "lit_elective_1": "Y",
+      "lit_elective_2": "N",
+      "additional_multi_elective_or_writing_elective": "N"
+    }
+  },
+  {
+    "student_name": "Katrina J. Duncan",
+    "student_active": "Y",
+    "advisor": "Stephen B. Patterson",
+    "major_requirements_in_english": {
+      "engl_200": "Y",
+      "foreign_language_1": "N",
+      "foreign_language_2": "N",
+      "senior_capstone_prosem_1": "N",
+      "senior_capstone_prosem_2": "N"
+    },
+    "concentration_in_secondary_cert_ela": {
+      "engl_291": "N",
+      "engl_318": "Y",
+      "engl_321": "N",
+      "engl_372": "Y",
+      "engl_400": "Y",
+      "engl_335_or_362": "N",
+      "medieval_early_modern": "N",
+      "enlightenment/victorian": "N",
+      "modern_contemporary_lit": "N",
+      "lit_elective_1": "N",
+      "lit_2_or_writing_elective": "N"
+    }
+  },
+  {
+    "student_name": "Angela B. Schultz",
+    "student_active": "Y",
+    "advisor": "Beth L. Robinson",
+    "major_requirements_in_english": {
+      "engl_200": "Y",
+      "foreign_language_1": "Y",
+      "foreign_language_2": "Y",
+      "senior_capstone_prosem_1": "Y",
+      "senior_capstone_prosem_2": "N"
+    },
+    "concentration_in_secondary_cert_ela": {
+      "engl_291": "Y",
+      "engl_318": "Y",
+      "engl_321": "Y",
+      "engl_372": "Y",
+      "engl_400": "Y",
+      "engl_335_or_362": "N",
+      "medieval_early_modern": "Y",
+      "enlightenment/victorian": "Y",
+      "modern_contemporary_lit": "Y",
+      "lit_elective_1": "Y",
+      "lit_2_or_writing_elective": "Y"
+    }
+  },
+  {
+    "student_name": "Jennifer Z. Jackson",
+    "student_active": "N",
+    "advisor": "Savannah B. Hall",
+    "major_requirements_in_english": {
+      "engl_200": "N",
+      "foreign_language_1": "N",
+      "foreign_language_2": "N",
+      "senior_capstone_portfolio": "N"
+    },
+    "concentration_in_writng": {
+      "engl_123": "Y",
+      "engl_300": "N",
+      "engl_315_or_317": "N",
+      "multidisciplinary_elective_1": "N",
+      "multidisciplinary_elective_2": "N",
+      "multidisciplinary_elective_3": "N",
+      "multidisciplinary_elective_4": "N",
+      "lit_elective_1": "Y",
+      "lit_elective_2": "N",
+      "additional_multi_elective_or_writing_elective": "N"
+    }
+  },
+  {
+    "student_name": "James K. Pierce",
+    "student_active": "Y",
+    "advisor": "Tina T. Norris",
+    "major_requirements_in_english": {
+      "engl_200": "Y",
+      "foreign_language_1": "N",
+      "foreign_language_2": "N",
+      "senior_capstone_prosem_1": "Y",
+      "senior_capstone_prosem_2": "N"
+    },
+    "concentration_in_secondary_cert_ela": {
+      "engl_291": "Y",
+      "engl_318": "Y",
+      "engl_321": "Y",
+      "engl_372": "Y",
+      "engl_400": "Y",
+      "engl_335_or_362": "N",
+      "medieval_early_modern": "N",
+      "enlightenment/victorian": "Y",
+      "modern_contemporary_lit": "Y",
+      "lit_elective_1": "Y",
+      "lit_2_or_writing_elective": "N"
+    }
+  },
+  {
+    "student_name": "Christopher V. Wallace",
+    "student_active": "Y",
+    "advisor": "William T. Bowman",
+    "major_requirements_in_english": {
+      "engl_200": "Y",
+      "foreign_language_1": "Y",
+      "foreign_language_2": "N",
+      "senior_capstone_prosem_1": "Y",
+      "senior_capstone_prosem_2": "N"
+    },
+    "concentration_in_secondary_cert_ela": {
+      "engl_291": "Y",
+      "engl_318": "Y",
+      "engl_321": "Y",
+      "engl_372": "Y",
+      "engl_400": "Y",
+      "engl_335_or_362": "Y",
+      "medieval_early_modern": "N",
+      "enlightenment/victorian": "Y",
+      "modern_contemporary_lit": "Y",
+      "lit_elective_1": "N",
+      "lit_2_or_writing_elective": "Y"
+    }
+  },
+  {
+    "student_name": "Donald K. Rogers",
+    "student_active": "Y",
+    "advisor": "Benjamin L. Davenport",
+    "major_requirements_in_english": {
+      "engl_200": "Y",
+      "foreign_language_1": "Y",
+      "foreign_language_2": "Y",
+      "senior_capstone_portfolio": "N"
+    },
+    "concentration_in_writng": {
+      "engl_123": "Y",
+      "engl_300": "Y",
+      "engl_315_or_317": "Y",
+      "multidisciplinary_elective_1": "Y",
+      "multidisciplinary_elective_2": "Y",
+      "multidisciplinary_elective_3": "Y",
+      "multidisciplinary_elective_4": "Y",
+      "lit_elective_1": "Y",
+      "lit_elective_2": "Y",
+      "additional_multi_elective_or_writing_elective": "Y"
+    }
+  },
+  {
+    "student_name": "Phillip N. Bond",
+    "student_active": "Y",
+    "advisor": "Justin L. Ward",
+    "major_requirements_in_english": {
+      "engl_200": "Y",
+      "foreign_language_1": "N",
+      "foreign_language_2": "N",
+      "senior_capstone_prosem_1": "N",
+      "senior_capstone_prosem_2": "N"
+    },
+    "concentration_in_secondary_cert_ela": {
+      "engl_291": "N",
+      "engl_318": "Y",
+      "engl_321": "N",
+      "engl_372": "N",
+      "engl_400": "N",
+      "engl_335_or_362": "N",
+      "medieval_early_modern": "N",
+      "enlightenment/victorian": "N",
+      "modern_contemporary_lit": "N",
+      "lit_elective_1": "N",
+      "lit_2_or_writing_elective": "M"
+    }
+  },
+  {
+    "student_name": "Jessica B. Baxter",
+    "student_active": "Y",
+    "advisor": "Mark J. Pope",
+    "major_requirements_in_english": {
+      "engl_200": "Y",
+      "foreign_language_1": "Y",
+      "foreign_language_2": "Y`",
+      "senior_capstone_prosem_1": "N",
+      "senior_capstone_prosem_2": "N"
+    },
+    "concentration_in_secondary_cert_ela": {
+      "engl_291": "N",
+      "engl_318": "Y",
+      "engl_321": "Y",
+      "engl_372": "Y",
+      "engl_400": "Y",
+      "engl_335_or_362": "Y",
+      "medieval_early_modern": "N",
+      "enlightenment/victorian": "N",
+      "modern_contemporary_lit": "N",
+      "lit_elective_1": "N",
+      "lit_2_or_writing_elective": "Y"
+    }
+  }
+]

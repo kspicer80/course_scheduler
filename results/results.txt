@@ -1,0 +1,34 @@
+1 student needs to take engl_300: Jennifer V. Allen
+1 student needs to take engl_315_or_317: Jennifer V. Allen
+1 student needs to take multidisciplinary_elective_3: Jennifer V. Allen
+1 student needs to take multidisciplinary_elective_4: Jennifer V. Allen
+1 student needs to take lit_elective_2: Jennifer V. Allen
+1 student needs to take additional_multi_elective_or_writing_elective: Jennifer V. Allen
+3 students need to take engl_291: Katrina J. Duncan, Phillip N. Bond, Jessica B. Baxter
+2 students need to take engl_321: Katrina J. Duncan, Phillip N. Bond
+4 students need to take engl_335_or_362: Katrina J. Duncan, Angela B. Schultz, James K. Pierce, Phillip N. Bond
+5 students need to take medieval_early_modern: Katrina J. Duncan, James K. Pierce, Christopher V. Wallace, Phillip N. Bond, Jessica B. Baxter
+3 students need to take enlightenment/victorian: Katrina J. Duncan, Phillip N. Bond, Jessica B. Baxter
+3 students need to take modern_contemporary_lit: Katrina J. Duncan, Phillip N. Bond, Jessica B. Baxter
+4 students need to take lit_elective_1: Katrina J. Duncan, Christopher V. Wallace, Phillip N. Bond, Jessica B. Baxter
+2 students need to take lit_2_or_writing_elective: Katrina J. Duncan, James K. Pierce
+1 student needs to take engl_372: Phillip N. Bond
+1 student needs to take engl_400: Phillip N. Bond
+
+Courses needed by the most students:
+5 students need to take medieval_early_modern
+4 students need to take engl_335_or_362
+4 students need to take lit_elective_1
+3 students need to take engl_291
+3 students need to take enlightenment/victorian
+3 students need to take modern_contemporary_lit
+2 students need to take engl_321
+2 students need to take lit_2_or_writing_elective
+1 student needs to take engl_300
+1 student needs to take engl_315_or_317
+1 student needs to take multidisciplinary_elective_3
+1 student needs to take multidisciplinary_elective_4
+1 student needs to take lit_elective_2
+1 student needs to take additional_multi_elective_or_writing_elective
+1 student needs to take engl_372
+1 student needs to take engl_400
